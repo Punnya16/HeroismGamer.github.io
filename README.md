@@ -1,7 +1,8 @@
 # Heroism Gamer Website
  
  <i><b>This is a website made for a Gaming Youtube Channel Heroism Gamer.
- Coded using HTML,CSS and BootStrap<b><i>
+ <br>
+ Coded using HTML,CSS and BootStrap!<b><i>
  
  Check out the Website at https://punnya16.github.io/Heroismgamer.github.io/
  
